@@ -1,1 +1,1 @@
-# python-revisions
+# python-revisions Bridge classes notes
